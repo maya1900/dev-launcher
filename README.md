@@ -261,4 +261,4 @@ DEV_OPEN_CMD=echo dev o docs -d
 
 ## 许可证
 
-MIT。见 [LICENSE](./LICENSE)。
+MIT，版权所有 © 2026 maya1900。见 [LICENSE](./LICENSE)。
