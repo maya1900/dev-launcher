@@ -16,7 +16,8 @@
 ## 文件
 
 ```text
-dev.sh    Bash 主实现
+dev.sh    Bash 入口，负责初始化和加载模块
+lib/      Bash 功能模块
 dev.cmd   Windows cmd/PowerShell 入口，需要 PATH 里有 bash
 dev.conf  本地配置文件
 commands/ 常用命令脚本目录
