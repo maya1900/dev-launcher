@@ -28,7 +28,7 @@ if [ -z "$pids" ]; then
   exit 0
 fi
 
-echo "将释放端口 $port，PID:"
+echo "将释放端口 ${port}，PID:"
 printf '%s\n' "$pids"
 
 pid_still_owns_port() {
